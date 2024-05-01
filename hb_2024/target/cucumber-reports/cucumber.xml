@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="1.647">
+    <testcase classname="HepsiBurada- Api - Case" name="post and get with id" time="1.43">
+        <system-out><![CDATA[* start prepare request body................................................passed
+* add request body key email value eve.holt@reqres.in.......................passed
+* add request body key password value testtest..............................passed
+* finish prepare request body...............................................passed
+When send post request to registerUrl.......................................passed
+Then the status code is 200.................................................passed
+* update url userUrl as newurl with response id.............................passed
+* send get request to newurl................................................passed
+* the status code is 200....................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
