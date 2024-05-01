@@ -1,0 +1,16 @@
+/Users/eyyupguzel/IdeaProjects/hb_2024/src/test/java/helpers/ui/LocatorHelper.java
+/Users/eyyupguzel/IdeaProjects/hb_2024/src/test/java/helpers/ui/UiConfigHelper.java
+/Users/eyyupguzel/IdeaProjects/hb_2024/src/test/java/helpers/ui/BrowserOptionHelper.java
+/Users/eyyupguzel/IdeaProjects/hb_2024/src/test/java/helpers/ui/UiHelper.java
+/Users/eyyupguzel/IdeaProjects/hb_2024/src/test/java/helpers/ui/DriverHelper.java
+/Users/eyyupguzel/IdeaProjects/hb_2024/src/test/java/stepdefs/ui/UiBaseStepDefs.java
+/Users/eyyupguzel/IdeaProjects/hb_2024/src/test/java/stepdefs/api/ApiBaseStepDefs.java
+/Users/eyyupguzel/IdeaProjects/hb_2024/src/test/java/helpers/project/ProjectHelper.java
+/Users/eyyupguzel/IdeaProjects/hb_2024/src/test/java/helpers/api/ApiHelper.java
+/Users/eyyupguzel/IdeaProjects/hb_2024/src/test/java/helpers/base/IniHelper.java
+/Users/eyyupguzel/IdeaProjects/hb_2024/src/test/java/options/TestRunner.java
+/Users/eyyupguzel/IdeaProjects/hb_2024/src/test/java/helpers/ui/WaitHelper.java
+/Users/eyyupguzel/IdeaProjects/hb_2024/src/test/java/helpers/base/GherkinHelper.java
+/Users/eyyupguzel/IdeaProjects/hb_2024/src/test/java/helpers/api/ApiConfigHelper.java
+/Users/eyyupguzel/IdeaProjects/hb_2024/src/test/java/helpers/base/Logger.java
+/Users/eyyupguzel/IdeaProjects/hb_2024/src/test/java/stepdefs/project/ProjectStepDefs.java
